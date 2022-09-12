@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanaullah786&label=Profile%20views&color=0e75b6&style=flat" alt="shanaullah786" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanaullah786" alt="shanaullah786" /></a> </p>
 
 - 🔭 I’m currently working on **React/Redux**
 
